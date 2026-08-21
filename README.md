@@ -48,4 +48,64 @@ The project performs:
 
 ## Skills Demonstrated
 
-art of my Python learning journey to practice data cleaning, analysis, and insight generation using real-world social media data.
+- Python Programming
+- Data Cleaning
+- Data Analysis
+- Data Processing
+- File Handling
+- Problem Solving
+- Exploratory Data Analysis
+
+## Project Workflow
+
+```text
+Raw Instagram Data
+        ↓
+Data Cleaning
+        ↓
+Data Processing
+        ↓
+Data Analysis
+        ↓
+Insight Generation
+        ↓
+Results
+```
+
+## Screenshots
+
+### Maximum Followers Analysis
+
+![Maximum Followers](maximum-followers.jpeg)
+
+### Maximum Following Analysis
+
+![Maximum Following](maximum-following.jpeg)
+
+### Category Analysis
+
+![Category Analysis](category-analysis.jpeg)
+
+## Project Structure
+
+```text
+Coders-of-Bangalore-Instagram-Analytics
+│
+├── README.md                     # Project documentation
+├── LICENSE                       # MIT License
+├── banner.png                    # Repository banner
+├── maximum-followers.jpeg        # Output screenshot
+├── maximum-following.jpeg        # Output screenshot
+├── category-analysis.jpeg        # Output screenshot
+└── Coders_of_Banglore.ipynb      # Main project notebook
+```
+
+
+
+## Author
+
+**Shraddha Verma**
+
+B.Tech Computer Science Engineering
+
+Built as part of my Python learning journey to practice data cleaning, analysis, and insight generation using real-world social media data.
